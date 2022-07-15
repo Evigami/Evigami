@@ -5,5 +5,5 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
 <p align="left"> 
-
-       </p>
+       <img src="https://komarev.com/ghpvc/?username=Evigami&label=Profile Visitors&color=001eff&style=flat-square" alt="Evigami" /> 
+</p>
