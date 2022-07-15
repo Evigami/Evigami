@@ -15,5 +15,5 @@
        <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
        <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
        <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
-       <img alt="chrome" src="https://img.shields.io/badge/Uses-Chrome-blue/?logo=Google%20Chrome&logoColor=4C8BF5&color=DD5144">
+       <img alt="chrome" src="https://img.shields.io/badge/Uses-Chrome-blue/?logo=Google%20Chrome&logoColor=DD5144&color=DD5144">
 </p>
