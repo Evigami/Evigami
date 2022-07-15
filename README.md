@@ -9,4 +9,11 @@
        <img src="https://img.shields.io/badge/OS-Windows-brightgreen/?logo=Windows&style=flat-square" alt="OS" />
        <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue&style=flat-square" alt="editor">
        <img src="https://img.shields.io/reddit/user-karma/combined/ComprehensiveSpeed17?logo=reddit&style=flat-square" alt="Reddit User Karma">
+       <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
+       <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
+       <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
+       <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
+       <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
+       <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
+       <img alt="chrome" src="https://img.shields.io/badge/Uses-Chrome-blue/?logo=chrome&logoColor=4C8BF5&color=DD5144">
 </p>
