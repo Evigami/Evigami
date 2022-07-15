@@ -16,4 +16,7 @@
        <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
        <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
        <img alt="chrome" src="https://img.shields.io/badge/Uses-Chrome-blue/?logo=Google%20Chrome&logoColor=1DA462&color=1DA462">
+       <img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838">
+       <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
+       <img src="https://img.shields.io/badge/Uses-Minecraft-blue/?logo=Minecraft&logoColor=warning&color=55FF55" alt="discord">
 </p>
