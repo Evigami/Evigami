@@ -20,3 +20,17 @@
        <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA&style=flat-square" alt="discord">
        <img src="https://img.shields.io/badge/Uses-Minecraft-blue/?logo=Minecraft&logoColor=warning&color=55FF55&style=flat-square" alt="minecraft">
 </p>
+
+- 🔭 I’m currently working on [my main website](https://evigami.tk), [my other website](https://thethetaproject.github.io), and [my minecraft client](https://client.evigami.tk).
+
+- 🌱 I’m currently learning [Python](https://www.google.com/books/edition/Python_All_in_One_For_Dummies/A0QlEAAAQBAJ?hl=en&gbpv=0).
+
+<h2 align="left">Stats</h2>
+
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Evigami&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Evigami" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Evigami&show_icons=true&theme=dark&locale=en" alt="Evigami" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Evigami&theme=dark" alt="Evigami" /></p><br>
+  </html>
+
+## Spotify:
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/everettmohr)
