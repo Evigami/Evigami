@@ -7,5 +7,5 @@
 <p align="left"> 
        <img src="https://komarev.com/ghpvc/?username=Evigami&label=Profile Visitors&color=001eff&style=flat-square" alt="Evigami" />
        <img src="https://img.shields.io/badge/OS-Windows-brightgreen/?logo=Windows&style=flat-square" alt="OS" />
-       <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=Visual%20Studio%20Code" alt="Editor" />
+       <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?style=flat-square" alt="Editor" />
 </p>
