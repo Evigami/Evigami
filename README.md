@@ -31,6 +31,3 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Evigami&show_icons=true&theme=dark&locale=en" alt="Evigami" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Evigami&theme=dark" alt="Evigami" /></p><br>
   </html>
-
-## Spotify:
-[![Spotify](https://evigami.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/everettmohr)
