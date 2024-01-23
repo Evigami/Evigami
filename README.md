@@ -5,7 +5,6 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
 <p align="left"> 
-       <img src="https://komarev.com/ghpvc/?username=Evigami&label=Profile Visitors&color=001eff&style=flat-square" alt="Evigami" />
        <img src="https://img.shields.io/badge/OS-Windows-brightgreen/?logo=Windows&style=flat-square" alt="OS" />
        <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue&style=flat-square" alt="editor">
        <img src="https://img.shields.io/reddit/user-karma/combined/ComprehensiveSpeed17?logo=reddit&style=flat-square" alt="Reddit User Karma">
