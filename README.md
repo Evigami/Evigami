@@ -21,7 +21,7 @@
        <img src="https://img.shields.io/badge/Uses-Minecraft-blue/?logo=Minecraft&logoColor=warning&color=55FF55&style=flat-square" alt="minecraft">
 </p>
 
-- 🔭 I’m currently working on [my main website](https://evigami.tk), [my other website](https://thethetaproject.github.io), and [my minecraft client](https://client.evigami.tk).
+- 🔭 I’m currently working on [the Crafter CPU Project](https://youtube.com/watch?v=EMc8am4DZCg), [Minecraft Datapacks](https://www.youtube.com/watch?v=GKu-91D4qMw), and a Minecraft speedrunning client.
 
 - 🌱 I’m currently learning [Python](https://www.google.com/books/edition/Python_All_in_One_For_Dummies/A0QlEAAAQBAJ?hl=en&gbpv=0).
 
